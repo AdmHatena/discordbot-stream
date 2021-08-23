@@ -1,0 +1,25 @@
+{
+  "name": "discordbot-stream",
+  "version": "0.0.1",
+  "description": "stream video file to discord voice chat",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.cjs",
+    "test": "node app.cjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdmHatena/discordbot-stream.git"
+  },
+  "keywords": [],
+  "author": "AdmHatena",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdmHatena/discordbot-stream/issues"
+  },
+  "homepage": "https://github.com/AdmHatena/discordbot-stream#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "puppeteer": "^10.2.0"
+  }
+}
